@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Application
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on web project
+- 
 - 📫 How to reach me : ajwadabrar27@gmail.com
 <!---
 ajwad-shopup/ajwad-shopup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
