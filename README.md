@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajwad
+- 👋 Hi, I’m ajwad
 - 👀 I’m interested in Web Application
 - 🌱 I’m currently learning MERN stac
 - 💞️ I’m looking to collaborate on web project
